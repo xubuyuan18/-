@@ -1,9 +1,5 @@
 ![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-title.png)
 
-GitHub  地址：https://github.com/Bypass007/Emergency-Response-Notes
-
-GitBook 地址：https://bypass007.github.io/Emergency-Response-Notes/
-
 ### 项目介绍
 
 面对各种各样的安全事件，我们该怎么处理？
@@ -105,9 +101,3 @@ GitBook 地址：https://bypass007.github.io/Emergency-Response-Notes/
   * 第9篇：编辑器入侵事件
 
 ------
-
-### 学习交流
-
-后续持续更新内容，将发布在公众号Bypass--，同时公众号提供了该项目的PDF版本，关注后回复"应急响应" 即可下载。
-
-![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-erweima.jpg)
