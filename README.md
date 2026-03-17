@@ -1,5 +1,3 @@
-![](https://bypass007.github.io/Emergency-Response-Notes/Summary/image/sum-title.png)
-
 ### 项目介绍
 
 面对各种各样的安全事件，我们该怎么处理？
